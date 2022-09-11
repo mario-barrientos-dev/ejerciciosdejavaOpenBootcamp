@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class Strings {
     public static void main(String[] args) {
         String[] nombres = {"Mario", "Maria", "Johanna"};
         for (int i = 0; i < nombres.length; i++) {
